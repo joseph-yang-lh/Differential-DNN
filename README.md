@@ -22,6 +22,6 @@ In our second stage, we introduced stochastic volatility in the underlying proce
 
 --DNN_Model_for_Hagan_Correction.ipynb
 
---DNN_Model_for_Hagan_Floch_with_Filtered_Data
+--DNN_Model_for_Hagan_Floch_with_Filtered_Data.ipynb
 
---fdm_paper_and_matlab_code
+--Folder:fdm_paper_and_matlab_code
